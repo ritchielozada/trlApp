@@ -1,0 +1,4 @@
+venv/
+__pycache__/dir
+*.sqlite3
+.env
